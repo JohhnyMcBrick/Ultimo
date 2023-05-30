@@ -1,0 +1,24 @@
+{
+  "restaurantes": [
+    {
+      "nombre": "La Hacienda",
+      "direccion": "Cra. 75 #83-13 Medellin-Bellanitas",
+      "ciudad": "Medellin"
+    },
+    {
+      "nombre": "La pampa",
+      "direccion": "Cra. 51 #13 Medellin-Poblado",
+      "ciudad": "Medellin"
+    },
+    {
+      "nombre": "La fogata",
+      "direccion": "Cra 49B #92 59 Medellin-Envigado",
+      "ciudad": "Medellin"
+    },
+    {
+      "nombre": "Yucatan",
+      "direccion": "Av. 80 #50 Bello-Antioquia",
+      "ciudad": "Bello"
+    }
+  ]
+}
